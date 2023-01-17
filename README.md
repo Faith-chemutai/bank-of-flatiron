@@ -16,7 +16,7 @@ Transaction data is presented in table format and is sourced from a local server
 * Create environment variables
 * Use this api to source transactions <http://localhost:8001/transactions>
 ### Author:
-   * **Faith chemutai** - *Initial work* - [Faith]]<https://github.com/brianwambuamu>
+   * **Faith chemutai** - *Initial work* - [Faith]]https://github.com/Faith-chemutai/bank-of-flatiron
 ### Status:
     maintained, and is currently in development
 ### Version:
