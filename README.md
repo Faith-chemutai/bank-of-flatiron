@@ -7,7 +7,6 @@ Transaction data is presented in table format and is sourced from a local server
 
 ## project setup
 
-
 ### Prerequisites
 * node v14.17.4 and above
 * npm 6.14.14 and above
