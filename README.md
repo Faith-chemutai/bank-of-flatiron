@@ -10,7 +10,7 @@ Transaction data is presented in table format and is sourced from a local server
 git clone the repository in the vscode
 navigate to this directory
 open code on vscode 
-Run
+Run the following to get the server started
       npx json-server --watch db.json --port 8001
      to run server
  Run "npm install" to download the dependencies
